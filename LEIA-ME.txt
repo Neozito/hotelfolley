@@ -1,0 +1,56 @@
+HOTEL FOLLEY — NOVO SITE HTML
+Entrega completa • Neo Arte • Outubro de 2026
+
+O QUE ESTÁ INCLUÍDO
+13 páginas em HTML: início, o hotel, acomodações, estrutura, galeria,
+contato, reservas, privacidade e cinco páginas específicas de quartos.
+Fotos do hotel e de Toledo, logo original, ícones SVG, CSS e JavaScript locais.
+Galeria com filtros e ampliação, navegação para celular e formulário de reserva.
+Sem WordPress, banco de dados, compilação ou instalação de pacotes.
+
+COMO INSTALAR NO CPANEL
+1. Faça um backup do site WordPress atual e do arquivo .htaccess.
+2. Para conferir primeiro, extraia o ZIP em uma subpasta, por exemplo:
+   public_html/novo-site/ e abra https://seu-dominio.com.br/novo-site/
+3. Para colocar no domínio principal, extraia o conteúdo na public_html.
+   O index.html e a pasta assets devem ficar diretamente dentro da public_html.
+4. Exiba os arquivos ocultos no Gerenciador do cPanel. O .htaccess incluído
+   define index.html como a página inicial, sem as regras do WordPress.
+   Se houver regras personalizadas de hospedagem, HTTPS ou segurança,
+   preserve-as ao adaptar o .htaccess. Não é necessário apagar o WordPress.
+5. Limpe o cache do domínio/CDN e confira usando Ctrl+F5 no navegador.
+
+RESERVAS E ATENDIMENTO
+Central online original: https://book.omnibees.com/hotelresults?q=23005
+WhatsApp original: +55 45 99949-6152
+Telefone: +55 45 2033-8779
+E-mail: contato@hotelfolley.com.br
+O formulário valida os dados e abre o WhatsApp com a mensagem preenchida.
+O visitante precisa enviar a mensagem. Não há disparo automático de e-mail.
+A confirmação e o pagamento são feitos na central original ou com a equipe.
+Nenhum preço, capacidade, horário de check-in ou avaliação foi inventado.
+
+COMO EDITAR
+Textos: editar o arquivo HTML da página correspondente.
+Estilos e cores: assets/style.css (variáveis no início do arquivo).
+Interações e telefone do formulário: assets/main.js.
+Imagens: assets/images (incluídas no pacote; não dependem do WordPress).
+Cabeçalho e rodapé estão em cada HTML; altere-os em todas as páginas ao
+atualizar contatos. Os links de WhatsApp também aparecem em cada HTML.
+Sitemap e metadados sociais usam o domínio hotelfolley.com.br; ajuste-os
+se publicar permanentemente em outro domínio.
+
+URLs antigas /sobre-o-hotel/, /rooms/ e /reservas/ têm páginas de transição.
+O site usa fontes do sistema, sem carregamento de fontes externas.
+Não há rastreamento, anúncios, mapa incorporado ou cookies próprios.
+
+VERIFICAÇÃO DA ENTREGA
+Páginas e arquivos locais verificados; JavaScript validado sintaticamente.
+Hero conferido no navegador em tela de computador e em largura de celular.
+Filtro e ampliação da galeria, menu de celular e seleção de datas verificados.
+Não foi enviada mensagem ao hotel e não foi efetuada reserva real.
+
+ATUALIZAÇÃO DE IDENTIDADE VISUAL
+Paleta azul inspirada na fachada real: azul principal #126D89,
+azul escuro #103B50, azul claro #C4EAF5 e fundos branco/azul suave.
+Cores atualizadas em todas as páginas, botões, faixas, rodapé e WhatsApp.
